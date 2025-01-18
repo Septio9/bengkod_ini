@@ -1,2 +1,4 @@
 # bengkod_ini
-ready or not
+tiod
+
+oii
