@@ -1,2 +1,2 @@
 # bengkod_ini
-tiod
+ready or not
